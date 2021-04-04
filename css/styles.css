@@ -1,0 +1,172 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Patrick Hand';
+  color: #40514E;
+  line-height: 2;
+}
+
+h1{
+  margin: 0 auto 0 auto;
+  font-family: 'Caveat', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+
+h2{
+
+  font-size: 40px;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Patrick Hand', cursive;
+  color:  #11999E;
+}
+
+hr{
+  border: dotted;
+  width: 4%;
+  color: #EAF6F6;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+p{
+  margin: auto;
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+  font-size: 16px;
+}
+
+a{
+  text-decoration: none;
+  font-size: 25px;
+}
+
+a:hover{
+  color: #E4F9F5;
+}
+
+.dev{
+  font-size: 30px;
+  font-style: italic;
+  font-weight: normal;
+  font-family: sans-serif;
+}
+
+.intro{
+  width: 30%;
+}
+
+.ending{
+  width: 30%;
+  padding-bottom: 50px;
+}
+
+.footer-link{
+  color:  #11999E;
+}
+
+.topcontainer{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  padding-top: 100px;
+}
+
+.bottom-container{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #66BFBF;
+}
+
+.contact-me{
+  padding-bottom: 50px;
+}
+
+.footer-link{
+  margin-left: 30px;
+}
+
+.copy-right{
+  margin-top: 50px;
+  font-size: .7em;
+  color: #EAF6F6;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 350px;
+  bottom: 300px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.comp{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.tennis{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.BUTTON_MIZ {
+   background: #CDE0F5;
+   background-image: -webkit-linear-gradient(top, #CDE0F5, #076D95);
+   background-image: -moz-linear-gradient(top, #CDE0F5, #076D95);
+   background-image: -ms-linear-gradient(top, #CDE0F5, #076D95);
+   background-image: -o-linear-gradient(top, #CDE0F5, #076D95);
+   background-image: -webkit-gradient(to bottom, #CDE0F5, #076D95);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   height: 50px;
+   line-height: 50px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 200px;
+   font-size: 27px;
+   font-weight: 100;
+   padding: 2px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #4A33ED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_MIZ:hover {
+   border: solid #1C96D1 1px;
+   background: rgba(61, 99, 246, 0.74);
+   background-image: -webkit-linear-gradient(top, rgba(61, 99, 246, 0.74), #0B0093);
+   background-image: -moz-linear-gradient(top, rgba(61, 99, 246, 0.74), #0B0093);
+   background-image: -ms-linear-gradient(top, rgba(61, 99, 246, 0.74), #0B0093);
+   background-image: -o-linear-gradient(top, rgba(61, 99, 246, 0.74), #0B0093);
+   background-image: -webkit-gradient(to bottom, rgba(61, 99, 246, 0.74), #0B0093);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
